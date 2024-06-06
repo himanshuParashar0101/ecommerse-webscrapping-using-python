@@ -93,7 +93,7 @@ def visualize_data(matched_data):
 
     plt.xlabel('Product Name')
     plt.ylabel('Price')
-    plt.title('Price Comparison')
+    plt.title('Price Comparison of Reliance digital vs Flipkart')
     plt.legend()
     plt.tight_layout()
     plt.show()
